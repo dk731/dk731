@@ -1,4 +1,21 @@
-# Stuff I love!
+# About Me
+
+<h1 align="center">Hi 👋, I'm Demid</h1>
+<h3 align="center">I am 20 years old student from Latvia, love doing 👨‍💻 🏇 ⛷️</h3>
+<br/>
+
+- 👨‍🚀 I’m employed as: **Software developer / data analyst**
+- 🔭 Currently working on: **High performance trading system**
+- 🌱 I’m currently studying: **Embedded System Engineer at [RTU](https://www.rtu.lv/en)**
+- ⚡ Most loved project: [3D led cube display](https://github.com/dk731/3D-Led-Cube)
+- 👨‍💻 Visit my website: [qwe.me](https://qwe.me/)
+- 📝 I sometimes write articles on: [here](https://qwe.me/blog)
+
+<br/>
+
+# Skills
+
+## Stuff I love!
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; row-gap: 5px">
     <img style="margin-right: 10px" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
@@ -8,11 +25,12 @@
     <img style="margin-right: 10px" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
     <img style="margin-right: 10px" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
     <img style="margin-right: 10px" src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white"/>
+    <img style="margin-right: 10px" src="https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF"/>
 </div>
 
 <br/>
 
-# Some of stuff I know
+## Some stuff I know
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; row-gap: 5px">
     <img style="margin-right: 10px" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
@@ -32,7 +50,7 @@
 <br/>
 <br/>
 
-## Stats:
+# Stats:
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center">
     <img style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=dk731&count_private=true&show_icons=true&theme=dark&hide=contribs&hide_border=true"/>
