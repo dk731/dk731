@@ -11,6 +11,15 @@
 - 👨‍💻 Visit my website: [qwe.me](https://qwe.me/)
 - 📝 I sometimes write articles on: [here](https://qwe.me/blog)
 
+## Contacts
+
+If You wish to reach me directly (I will get instant notifiction on my phone) visit my [website](https://qwe.me/) and use `Contant Me` app
+
+Or you can just write me:
+
+- `demid.kaidalov@gmail.com` ( personal )
+- `demid@qwe.me` ( business )
+
 # Skills
 
 ## Stuff I love!
