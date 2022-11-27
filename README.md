@@ -20,8 +20,6 @@ Or you can just write me:
 - `demid.kaidalov@gmail.com` ( personal )
 - `demid@qwe.me` ( business )
 
-<br/>
-
 # Skills
 
 ## Stuff I love!
