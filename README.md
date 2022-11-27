@@ -6,14 +6,14 @@
 
 - 👨‍🚀 I’m employed as: **Software developer / data analyst**
 - 🔭 Currently working on: **High performance trading system**
-- 🌱 I’m currently studying: **Embedded System Engineer at [RTU](https://www.rtu.lv/en)**
-- ⚡ Most loved project: [3D led cube display](https://github.com/dk731/3D-Led-Cube)
-- 👨‍💻 Visit my website: [qwe.me](https://qwe.me/)
-- 📝 I sometimes write articles on: [here](https://qwe.me/blog)
+- 🌱 I’m currently studying: **Embedded System Engineer at <a href="https://www.rtu.lv/en" target="_blank">RTU</a>**
+- ⚡ Most loved project: **<a href="https://github.com/dk731/3D-Led-Cube" target="_blank">3D led cube display</a>**
+- 👨‍💻 Visit my website: **<a href="https://qwe.me/" target="_blank">qwe.me</a>**
+- 📝 I sometimes write articles on: **<a href="https://blog.qwe.me/" target="_blank">here</a>**
 
 ## Contacts
 
-If You wish to reach me directly (I will get instant notifiction on my phone) visit my [website](https://qwe.me/) and use `Contant Me` app
+If You wish to reach me directly (I will get instant notifiction on my phone) visit my <a href="https://qwe.me/" target="_blank">website</a> and use `Contant Me` app
 
 Or you can just write me:
 
