@@ -9,7 +9,16 @@
 - 🌱 I’m currently studying: **Embedded System Engineer at [RTU](https://www.rtu.lv/en)**
 - ⚡ Most loved project: [3D led cube display](https://github.com/dk731/3D-Led-Cube)
 - 👨‍💻 Visit my website: [qwe.me](https://qwe.me/)
-- 📝 I sometimes write articles: [here](https://blog.qwe.me/)
+- 📝 I sometimes write articles on: [here](https://qwe.me/blog)
+
+## Contacts
+
+If You wish to reach me directly (I will get instant notifiction on my phone) visit my [website](https://qwe.me/) and use `Contant Me` app
+
+Or you can just write me:
+
+- `demid.kaidalov@gmail.com` ( personal )
+- `demid@qwe.me` ( business )
 
 <br/>
 
@@ -30,7 +39,7 @@
 
 <br/>
 
-## Some of stuff I know
+## Some stuff I know
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; row-gap: 5px">
     <img style="margin-right: 10px" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
@@ -53,7 +62,7 @@
 # Stats:
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center">
-    <img style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=dk731&count_private=true&show_icons=true&hide=contribs&hide_border=true&theme=transparent"/>
-    <img style="margin-right: 10px" src="https://streak-stats.demolab.com/demo/preview.php?user=dk731&hide_border=true&theme=transparent">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dk731&layout=compact&hide=html,css,asp.net,java,javascript,shaderlab&langs_count=8&theme=dark&hide_border=true&theme=transparent"/>
+    <img style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=dk731&count_private=true&show_icons=true&theme=dark&hide=contribs&hide_border=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dk731&theme=dark&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dk731&layout=compact&hide=html,css,asp.net,java,javascript,shaderlab&langs_count=8&theme=dark&hide_border=true"/>
 </div>
