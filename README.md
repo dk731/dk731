@@ -62,5 +62,5 @@ Or you can just write me:
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center">
     <img style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=dk731&count_private=true&show_icons=true&theme=dark&hide=contribs&hide_border=true"/>
     <img style="margin-right: 10px" src="https://github-readme-streak-stats.herokuapp.com/?user=dk731&theme=dark&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dk731&layout=compact&hide=html,css,asp.net,java,javascript,shaderlab&langs_count=8&theme=dark&hide_border=true"/>
+    <img style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dk731&layout=compact&hide=html,css,asp.net,java,javascript,shaderlab&langs_count=8&theme=dark&hide_border=true"/>
 </div>
