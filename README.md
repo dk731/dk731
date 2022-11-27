@@ -37,7 +37,7 @@ Or you can just write me:
 
 <br/>
 
-## Some stuff I know
+## Some of stuff I know
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; row-gap: 5px">
     <img style="margin-right: 10px" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
