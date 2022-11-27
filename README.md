@@ -9,7 +9,7 @@
 - 🌱 I’m currently studying: **Embedded System Engineer at [RTU](https://www.rtu.lv/en)**
 - ⚡ Most loved project: [3D led cube display](https://github.com/dk731/3D-Led-Cube)
 - 👨‍💻 Visit my website: [qwe.me](https://qwe.me/)
-- 📝 I sometimes write articles on: [here](https://qwe.me/blog)
+- 📝 I sometimes write articles on: [here](https://blog.qwe.me/)
 
 <br/>
 
@@ -30,7 +30,7 @@
 
 <br/>
 
-## Some stuff I know
+## Some of stuff I know
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; row-gap: 5px">
     <img style="margin-right: 10px" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
