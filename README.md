@@ -1,7 +1,7 @@
 # About Me
 
 <h1 align="center">Hi 👋, I'm Demid</h1>
-<h3 align="center">I am 20 years old student from Latvia, love doing 👨‍💻 🏇 ⛷️</h3>
+<h3 align="center">I am 21 years old student from Latvia, love doing 👨‍💻 🏇 ⛷️</h3>
 <br/>
 
 - 👨‍🚀 I’m employed as: **Software developer / data analyst**
