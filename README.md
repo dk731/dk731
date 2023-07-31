@@ -6,7 +6,7 @@
 
 - 👨‍🚀 I’m employed as: **Software developer / data analyst**
 - 🔭 Currently working on: **High performance trading system**
-- 🌱 I’m currently studying: **_Embedded System Engineer_ at <a href="https://www.rtu.lv/en" target="_blank">RTU</a>** and **_Law and Business_ <a href="https://www.rgsl.edu.lv/" target="_blank">RGS</a>**
+- 🌱 I’m currently studying: **_Embedded System Engineer_ at <a href="https://www.rtu.lv/en" target="_blank">RTU</a>** and **_Law and Business_ at <a href="https://www.rgsl.edu.lv/" target="_blank">RGS</a>**
 - ⚡ Most loved project: **<a href="https://github.com/dk731/3D-Led-Cube" target="_blank">3D led cube display</a>**
 - 👨‍💻 Visit my website: **<a href="https://qwe.me/" target="_blank">qwe.me</a>**
 - 📝 I sometimes write articles on: **<a href="https://blog.qwe.me/" target="_blank">here</a>**
