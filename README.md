@@ -1,11 +1,10 @@
 # About Me
 
 <h1 align="center">Hi 👋, I'm Demid</h1>
-<h3 align="center">I am 21 years old student from Latvia, love doing 👨‍💻 🏇 ⛷️</h3>
+<h3 align="center">I am 22 years old student from Latvia, love doing 👨‍💻 🏇 ⛷️</h3>
 <br/>
 
 - 👨‍🚀 I’m employed as: **Software developer / data analyst**
-- 🔭 Currently working on: **High performance trading system**
 - 🌱 I’m currently studying: **_Embedded System Engineer_ at <a href="https://www.rtu.lv/en" target="_blank">RTU</a>** and **_Law and Business_ at <a href="https://www.rgsl.edu.lv/" target="_blank">RGSL</a>**
 - ⚡ Most loved project: **<a href="https://github.com/dk731/3D-Led-Cube" target="_blank">3D led cube display</a>**
 - 👨‍💻 Visit my website: **<a href="https://qwe.me/" target="_blank">qwe.me</a>**
